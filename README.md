@@ -1,4 +1,4 @@
-# Zwei Web Framework 
+# Zwei 
 
 ## What is Zwei?
 
