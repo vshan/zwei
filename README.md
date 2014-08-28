@@ -2,7 +2,7 @@
 
 ## What is Zwei?
 
-Zwei is a web framework written the DSL way (on ruby) designed to simplify the process of creating web applications, taking inspiration from both Sinatra and Rails.
+Zwei is a web framework written the DSL way (on ruby) designed to simplify the process of creating web applications, taking inspiration from both Rails and Sinatra.
 
 ## Why Zwei?
 
